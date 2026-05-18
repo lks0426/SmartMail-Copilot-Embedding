@@ -1,5 +1,0 @@
-npm install -g ngrok
-
-ngrok config add-authtoken 2w6PxxrHQ0u1hBXzLQnObtw47p0_4eb3ie8RRyTpfAkaPPoNk
-
-ngrok config add-authtoken 2w6PxxrHQ0u1hBXzLQnObtw47p0_4eb3ie8RRyTpfAkaPPoNk
